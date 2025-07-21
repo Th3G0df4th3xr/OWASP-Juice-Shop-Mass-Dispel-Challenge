@@ -22,20 +22,20 @@ The 'Mass Dispel' challenge in OWASP Juice Shop requires an attacker to invalida
 
 Each link below points to a dedicated folder containing the detailed explanation and step-by-step guide for that specific method.
 
-1.  [Method-1-Insecure-Direct-Object-Reference-IDOR-for-Deletion](./Method-1-Insecure-Direct-Object-Reference-IDOR-for-Deletion/README.md)
-2.  [Method-2-Batch-API-Mass-Deletion](./Method-2-Batch-API-Mass-Deletion/README.md)
-3.  [Method-3-CSRF-on-Session-Ending-Endpoints](./Method-3-CSRF-on-Session-Ending-Endpoints/README.md)
-4.  [Method-4-SQL-Injection-on-Deletion-Endpoint](./Method-4-SQL-Injection-on-Deletion-Endpoint/README.md)
-5.  [Method-5-NoSQL-Injection-for-Session-Deletion](./Method-5-NoSQL-Injection-for-Session-Deletion/README.md)
-6.  [Method-6-Privilege-Escalation-to-Admin-Functionality](./Method-6-Privilege-Escalation-to-Admin-Functionality/README.md)
-7.  [Method-7-XSS-Leading-to-Session-Deletion](./Method-7-XSS-Leading-to-Session-Deletion/README.md)
-8.  [Method-8-Race-Condition-for-Deletion](./Method-8-Race-Condition-for-Deletion/README.md)
-9.  [Method-9-Predictable-Public-Session-Destruction-Links](./Method-9-Predictable-Public-Session-Destruction-Links/README.md)
-10. [Method-10-JWT-Forgery-or-Key-Confusion](./Method-10-JWT-Forgery-or-Key-Confusion/README.md)
-11. [Method-11-UI-Logic-Abuse-Shift-Click-Notification-Dismissal](./Method-11-UI-Logic-Abuse-Shift-Click-Notification-Dismissal/README.md)
-12. [Method-12-DOM-Mutation-via-DevTools-or-Self-XSS](./Method-12-DOM-Mutation-via-DevTools-or-Self-XSS/README.md)
-13. [Method-13-Admin-API-Enumeration-Hidden-Endpoint-Access](./Method-13-Admin-API-Enumeration-Hidden-Endpoint-Access/README.md)
-14. [Method-14-Cache-Invalidation-Session-Store-Poisoning](./Method-14-Cache-Invalidation-Session-Store-Poisoning/README.md)
+Method-1-Insecure-Direct-Object-Reference-IDOR-for-Deletion
+Method-2-Batch-API-Mass-Deletion
+Method-3-CSRF-on-Session-Ending-Endpoints
+Method-4-SQL-Injection-on-Deletion-Endpoint
+Method-5-NoSQL-Injection-for-Session-Deletion
+Method-6-Privilege-Escalation-to-Admin-Functionality
+Method-7-XSS-Leading-to-Session-Deletion
+Method-8-Race-Condition-for-Deletion
+Method-9-Predictable-Public-Session-Destruction-Links
+Method-10-JWT-Forgery-or-Key-Confusion
+Method-11-UI-Logic-Abuse-Shift-Click-Notification-Dismissal
+Method-12-DOM-Mutation-via-DevTools-or-Self-XSS
+Method-13-Admin-API-Enumeration-Hidden-Endpoint-Access
+Method-14-Cache-Invalidation-Session-Store-Poisoning
 
 ---
 
